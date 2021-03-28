@@ -3,8 +3,3 @@
 
  R‚pertoire de C:\Users\G I E\Desktop\test
 
-28/03/2021  12:15    <DIR>          .
-28/03/2021  12:15    <DIR>          ..
-28/03/2021  12:15                 0 test1.txt
-               1 fichier(s)                0 octets
-               2 R‚p(s)  298ÿ914ÿ775ÿ040 octets libres
